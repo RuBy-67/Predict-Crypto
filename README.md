@@ -104,10 +104,3 @@ L'analyse sera générée pour chaque crypto listée et envoyée sur Discord.
 > Plan de trade recommandé : ...  
 > ...  
 > *~12 Jours de bougies traités, sur une Timeframe **4h**, IA: gpt-4o-mini*
-
----
-
-## 🔒 Sécurité
-
-- Ne partage jamais ton fichier `.env` ni ta clé OpenAI.
-- Les fichiers `.env` et `node_modules` sont déjà ignorés par git. 
